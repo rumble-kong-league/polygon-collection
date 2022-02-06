@@ -22,7 +22,7 @@ def produce_curry_poster_meta():
     return {
       "image": "ipfs://QmdCFbqT9tQ2pWRKbYmva7dxzPTsaFMgDAq3hyJdNmx9vr",
       "description": "RKL Polygon Collection to commemorate important events of the Kong Life.",
-      "name": f"RKL SLAM Feb/Mar 2022 Poster #{i}"
+      "name": f"SLAM x RKL Poster #{i}"
     }
 
   kong_holder_addresses = json.loads(open(kong_holder_addresses_file).read())
